@@ -2,7 +2,7 @@
 
 A robust Django REST API for rating and managing meals, perfect for restaurant review apps, meal planning tools, or any system where users need to rate food items.
 
-![API Root](Screenshot2025-12-01204235.jpg)
+![API Root](API_Root.jpg)
 
 
 ## ✨ Features
