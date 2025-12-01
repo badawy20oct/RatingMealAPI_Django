@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdelrahman Badawy**
 - GitHub: [@badawy20oct](https://github.com/badawy20oct)
-- Email: your.email@example.com
+- Email: badawy20ocy@gmail.com
 
 ## 🙏 Acknowledgments
 
