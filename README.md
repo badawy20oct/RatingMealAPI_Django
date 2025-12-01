@@ -5,7 +5,8 @@ A robust Django REST API for rating and managing meals, perfect for restaurant r
 ![Django]([https://img.shields.io/badge/Django-5.2.3-green.svg](https://github.com/badawy20oct/RatingMealAPI_Django/blob/main/Screenshot%202025-12-01%20204235.jpg?raw=true))
 ![DRF]([https://img.shields.io/badge/DRF-3.14+-blue.svg](https://github.com/badawy20oct/RatingMealAPI_Django/blob/main/Screenshot%202025-12-01%20204159.jpg?raw=true))
 ![Python]([https://img.shields.io/badge/Python-3.8+-blue.svg](https://github.com/badawy20oct/RatingMealAPI_Django/blob/main/Screenshot%202025-12-01%20204128.jpg?raw=true))
-![License]([https://img.shields.io/badge/License-MIT-yellow.svg](https://github.com/badawy20oct/RatingMealAPI_Django/blob/main/Screenshot%202025-12-01%20204004.jpg?raw=true))
+![License](<img width="1897" height="758" alt="image" src="https://github.com/user-attachments/assets/be2034eb-f1ba-4d1b-bb00-addfa1fdbe2e" />
+)
 
 ## ✨ Features
 
